@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "591024564686",
+    "project_id": "aina-app-69276",
+    "storage_bucket": "aina-app-69276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591024564686:android:4cad8888245dfdbb4a239f",
+        "android_client_info": {
+          "package_name": "kz.joop.aina_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591024564686-tickblhrf5hsbf2ou471e6o8c3be1dmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXynUFTCKDrLnPrIXGYsjc_Z2H5x-D2Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591024564686-tickblhrf5hsbf2ou471e6o8c3be1dmj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "591024564686-uoa2gg9rmto1umjt0v3b5crig52u0n1q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kz.joop.aina-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
